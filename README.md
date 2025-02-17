@@ -7,23 +7,23 @@
 Запускает веб-приложение в режиме разработчика.
 Откройте [http://localhost:3000](http://localhost:3000) в своем браузере после запуска для просмотра frontend части проекта.
 
-### Запуск
+## Запуск
 
-Перейдите в директорию frontend части проекта:
+### 1. Перейдите в директорию frontend части проекта:
 ```bash
 cd path/to/directory/J-Cup/jcup-frontend
 ```
-Установите зависимости:
+### 2. Установите зависимости:
 ```bash
 npm i three react react-dom
 ```
 
-Упакуйте проект с помощью `npm run build`:
+### 3. Упакуйте проект с помощью `npm run build`:
 ```bash
 npm run build
 ```
 
-Запустите с помощью `npm start`
+### 4. Запустите с помощью `npm start`
 ```bash
 npm start
 ```
