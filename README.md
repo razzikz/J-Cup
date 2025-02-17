@@ -7,6 +7,7 @@
 Запускает веб-приложение в режиме разработчика.
 Откройте [http://localhost:3000](http://localhost:3000) в своем браузере после запуска для просмотра frontend части проекта.
 
+
 ## Запуск
 
 ### 1. Перейдите в директорию frontend части проекта:
@@ -27,6 +28,7 @@ npm run build
 ```bash
 npm start
 ```
+
 
 ## Интерфейс программы
 <img src="https://github.com/razzikz/J-Cup/blob/main/interface.png?raw=true"/>
