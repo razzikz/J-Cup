@@ -13,6 +13,16 @@
 ```bash
 cd path/to/directory/J-Cup/jcup-frontend
 ```
+Установите зависимости:
+```bash
+npm i three react react-dom
+```
+
+Упакуйте проект с помощью `npm run build`:
+```bash
+npm run build
+```
+
 Запустите с помощью `npm start`
 ```bash
 npm start
