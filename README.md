@@ -28,5 +28,5 @@ npm run build
 npm start
 ```
 
-### Интерфейс программы
+## Интерфейс программы
 <img src="https://github.com/razzikz/J-Cup/blob/main/interface.png?raw=true"/>
