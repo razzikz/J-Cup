@@ -31,4 +31,6 @@ npm start
 
 
 ## Интерфейс программы
+<div style="background-color: #ffffff">
 <img src="https://github.com/razzikz/J-Cup/blob/main/interface.png?raw=true"/>
+</div>
